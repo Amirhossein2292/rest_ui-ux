@@ -7,3 +7,4 @@
 
 
 ## Introduction
+This is a code repository for designing modern UI/UX restaurant Front-end website, with fully responsive designing.
